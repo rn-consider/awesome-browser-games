@@ -3,7 +3,9 @@
 A curated list of awesome browser-based games — playable without downloads, installs, or plugins. Focused on incremental/idle/clicker games with narrative depth, evolving mechanics, and satisfying escalation.
 
 Contributions welcome! See [contributing.md](contributing.md).
+
 ## Contents
+
 - [Narrative Incrementals](#narrative-incrementals)
   - [Finite Narrative Games](#finite-narrative-games)
   - [Deep Prestige / Mathematical Rabbit Holes](#deep-prestige--mathematical-rabbit-holes)
@@ -15,10 +17,13 @@ Contributions welcome! See [contributing.md](contributing.md).
   - [Arcade](#arcade)
   - [RPG](#rpg)
 - [Where to Find More](#where-to-find-more)
+
 ## Narrative Incrementals
 
 Incremental games with strong narrative, unfolding mechanics, and a satisfying sense of escalation.
+
 ### Finite Narrative Games
+
 | Game | Link | Why it's notable | Est. playtime |
 |------|------|------------------|---------------|
 | **Universal Paperclips** | https://www.decisionproblem.com/paperclips/index2.html | The one that started it all. AI takes over paperclip production with hilarious results. | 4-6h |
@@ -29,7 +34,9 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 | **Evolve** | https://pmotschmann.github.io/Evolve/ | Layered progression, deep prestige tree. | Weeks |
 | **Succubox** | (search "Succubox browser") | Philosophical themes, multiple endings, text-based. | 2-3h |
 | **Shark Game** | https://cirri.al/sharks/ | Short, funny, compulsive upgrade loop. | 1-2h |
+
 ### Deep Prestige / Mathematical Rabbit Holes
+
 - [Antimatter Dimensions](https://ivark.github.io/AntimatterDimensions/) - Deepest incremental ever. Multiple prestige layers — Infinity, Eternity, Reality. Months of content.
 - [Kittens Game](https://kittensgame.com/web/) - Dark fantasy idle. Massive tech tree, multiple resets, months of content.
 - [Trimps](https://trimps.github.io/) - Strategy and combat incremental. Maps, perks, deep prestige. Months of content.
@@ -37,12 +44,16 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [Derivative Clicker](https://www.derivativeclicker.com/) - Math-themed. Clicks feed derivatives feed integrals. Funny and educational.
 - [Theresmore](https://www.theresmore.com/) - Build a civilization from tribe to empire. Deep tech tree and conquest.
 - [Swarm Simulator](https://www.swarmsim.com/) - Biological scaling. Huge numbers fast. A classic of the genre.
+
 ### Classic / Must-Play Clickers
-- [Cookie Clicker](https://orteil.dashnet.net/cookieclicker/) - The grandfather of the genre. Still updated 10+ years later. Infinite.
+
+- [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) - The grandfather of the genre. Still updated 10+ years later. Infinite.
 - [Clicker Heroes](https://www.clickerheroes.com/play) - RPG and idle hybrid. Heroes, bosses, ascension mechanics.
 - [Idle Breakout](https://kodiqi.github.io/) - Arcade bricks meet incremental upgrades. Satisfying loop.
 - [AdVenture Capitalist](https://www.kongregate.com/games/hyperhippogames/adventure-capitalist) - Lemonade stand to space empire. Highly polished.
+
 ### Hidden Gems & Community Favorites
+
 - [Idling to Rule the Gods](https://www.kongregate.com/games/tukkun/idling-to-rule-the-gods) - Gods, rebirths, huge content library.
 - [Candy Box](https://candybox2.github.io/candybox/) - The original. Play this first, then Candy Box 2.
 - [Progress Knight](https://progressknight.github.io/) - Reincarnation-based progression system.
@@ -51,7 +62,9 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [Pulse](https://vibearcade.com/pulse) - Short-session prestige loops with 20-40 minute runs.
 - [Birb](https://galaxy.click/play/667) - Incremental about a birb. Actively updated, community-driven.
 - [Pachinkremental](https://poochyexe.github.io/pachinkremental/pachinkremental.html) - Short pachinko-themed incremental game.
+
 ## Other Browser Game Genres
+
 ### Puzzle
 
 - [Meccha Chameleon](https://mecchachameleon.art/) - Browser-playable hide-and-seek camo game with painting, map, and new-player helpers.
@@ -60,21 +73,27 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [0h h0](https://0hn0.com/) - Companion puzzle game to 0h h1.
 - [A Dark Room](http://adarkroom.doublespeakgames.com/) - Minimalist text adventure that evolves into something much bigger.
 - [ArrowGame](https://arrowgame.app/) - Browser-based spatial logic puzzle about clearing arrows in a safe order, with 1,000 levels and a daily boss challenge.
+
 ### Strategy
 
 - [Freeciv-web](https://www.freecivweb.org/) - Turn-based strategy game, Civilization clone for the browser.
 - [An efficient micro](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter.
 - [Last Colony](https://www.adityaravishankar.com/projects/games/lastcolony/) - RTS game with single-player campaign and multiplayer.
+
 ### Arcade
 
 - [HexGL](https://hexgl.bkcore.com/) - Futuristic HTML5 racing game with WebGL graphics.
 - [Particle Clicker](https://cern.ch/particle-clicker) - Addictive incremental game that teaches particle physics.
+
 ### RPG
+
 - [Auferet](https://auferet.com/) - AI game master for solo text adventures and tabletop-style RPGs, playable in the browser with persistent memory and your own uploaded lore.
 - [BrowserQuest](https://browserquest.mozilla.org/) - HTML5 and JavaScript multiplayer game experiment from Mozilla.
 - [Diablo JS](https://mitallast.github.io/diablo-js/) - Isometric minimal-code style game at HTML5 canvas.
 - [Veilbound](https://veilbound.gg) - Free 3D WebGL MMORPG with nine classes, dungeons, guilds, and PvP duels.
+
 ## Where to Find More
+
 - [r/incremental_games](https://reddit.com/r/incremental_games) - The genre's home. Weekly recommendation threads.
 - [Incremental Games Plaza](https://plaza.dsolver.ca/) - Curated database of incremental games.
 - [IncrementalDB](https://www.incrementaldb.com/) - Searchable game database.
@@ -82,6 +101,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 - [CrazyGames (Incremental tag)](https://www.crazygames.com/t/incremental) - Filtered catalog.
 - [Awesome Games on GitHub](https://github.com/leereilly/games) - Open source games on GitHub (archived but extensive).
 - [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8) - Fantasy console games (many playable in browser).
+
 ## Contributing
 
 Contributions welcome! Please read [contributing.md](contributing.md) for guidelines.
